@@ -46,3 +46,5 @@ A symmetrical chandelier was analyzed using reference lines:
 - **Conclusion:** Image is **not symmetrical** or **in perspective** and is likely **AI-generated or manipulated**
 
 ---
+
+View the [pdf report](hw03.pdf).
